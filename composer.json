@@ -9,9 +9,6 @@
   },
   "extra": {
     "installer-name": "starter",
-    "branch-alias": {
-        "dev-stats": "4.x-dev"
-    },
     "expose": [
       "dist",
       "ico",
